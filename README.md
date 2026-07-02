@@ -173,3 +173,7 @@ keyguard/
 ## License
 
 MIT — for educational use only.
+
+## Author
+
+**Hardik Prajapati** — Security Researcher & Penetration Tester
