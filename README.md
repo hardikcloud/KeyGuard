@@ -2,6 +2,8 @@
 
 ![KeyGuard banner](images/heading.png)
 
+**Hardik Prajapati — Security Researcher**
+
 A real-time keystroke monitor with Telegram alerting, built as a college security project. Demonstrates keylogging techniques, daemon process management, and Telegram Bot API integration.
 
 > **⚠️ Ethical Use Only**
